@@ -58,7 +58,7 @@ The system utilizes a client-server architecture where the Flutter frontend comm
 
 | Home Dashboard | Live Commerce | Arcade Center | Checkout & Payment |
 | :---: | :---: | :---: | :---: |
-| <img src="assets/home.png" width="200"/> | <img src="assets/live.png" width="200"/> | <img src="assets/arcade.png" width="200"/> | <img src="assets/payment.png" width="200"/> |
+| <img src="assets/dashboard.jpeg" width="200"/> | <img src="assets/livestream.jpeg" width="200"/> | <img src="assets/arcade.jpeg" width="200"/> | <img src="assets/payment.jpeg" width="200"/> |
 
 ---
 
