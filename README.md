@@ -70,7 +70,7 @@ If you would like to test the application's features, you can download the proto
 
 **Step 1: Download the Prototype**
 * Go to the [Releases page](../../releases/ of this repository.
-* Download the `skelva-prototype-v1.0.apk` file to your Android device.
+* Go to google drive link and download the `skelva-prototype-v1.0.apk` file to your Android device.
 
 **Step 2: Enable Installation**
 * Because this is a developer prototype and not on the Google Play Store, you need to allow installation from unknown sources.
