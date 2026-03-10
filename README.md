@@ -9,7 +9,7 @@ Skelva is a specialized mobile application developed to promote digital entrepre
 
 ---
 
-## 🚀 The Problem We Solve
+## 🚀 The Problem Solve
 Existing platforms like Shopee and Lazada are highly commercialized and lack support for service-based listings. Meanwhile, managing sales through WhatsApp or TikTok DMs is disorganized and lacks a trust verification system for campus logistics. 
 
 **Skelva** solves this by offering a hybrid marketplace where students can monetize both their physical products (e.g., food, thrifted clothes) and technical skills (e.g., PC formatting, coding, design) in a secure, university-verified environment.
@@ -64,7 +64,7 @@ The system utilizes a client-server architecture where the Flutter frontend comm
 
 ## 📥 Try the Prototype (Android APK)
 
-> **⚠️ Academic Project Disclaimer:** > *Skelva is a my project for academic purposes at the Faculty of Computer Science and Information Technology (FSKTM), UTHM. This is a prototype build and **not an official commercial release**. The app is currently in its testing phase (UAT).*
+> **⚠️ Academic Project Disclaimer:** > *Skelva is a my project for academic purposes created within 4 months at the Faculty of Computer Science and Information Technology (FSKTM), UTHM. This is a prototype build and **not an official commercial release**. The app is currently in its testing phase (UAT).*
 
 If you would like to test the application's features, you can download the prototype APK for Android devices:
 
