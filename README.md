@@ -42,7 +42,7 @@ Existing platforms like Shopee and Lazada are highly commercialized and lack sup
 
 ### Third-Party APIs
 * **ZegoCloud:** Live Streaming SDK for Host/Audience synchronization.
-* **Stripe:** Payment Gateway API.
+* **Stripe:** Sandbox Testing Payment Gateway API.
 
 ---
 
@@ -62,8 +62,22 @@ The system utilizes a client-server architecture where the Flutter frontend comm
 
 ---
 
-## 💻 Getting Started
+## 📥 Try the Prototype (Android APK)
 
-To run this application:
+> **⚠️ Academic Project Disclaimer:** > *Skelva is a my project for academic purposes at the Faculty of Computer Science and Information Technology (FSKTM), UTHM. This is a prototype build and **not an official commercial release**. The app is currently in its testing phase (UAT).*
 
-1. **Install in android phone:**
+If you would like to test the application's features, you can download the prototype APK for Android devices:
+
+**Step 1: Download the Prototype**
+* Go to the [Releases page](../../releases/ of this repository.
+* Download the `skelva-prototype-v1.0.apk` file to your Android device.
+
+**Step 2: Enable Installation**
+* Because this is a developer prototype and not on the Google Play Store, you need to allow installation from unknown sources.
+* Go to your phone's **Settings > Security** and enable **"Allow from this source"** for your file manager or browser.
+
+**Step 3: Install & Explore**
+* Open the downloaded `.apk` file and tap **Install**.
+* Launch the app! You can register a test account (use any email format) to explore the Buyer, Seller, Live Streaming, and Gamification interfaces.
+
+*(Note: Please do not use real credit card information during checkout; the Stripe integration is currently running in **Test Mode** for demonstration purposes.)*
