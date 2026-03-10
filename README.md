@@ -69,8 +69,8 @@ The system utilizes a client-server architecture where the Flutter frontend comm
 If you would like to test the application's features, you can download the prototype APK for Android devices:
 
 **Step 1: Download the Prototype**
-* Go to the [Releases page](../../releases/ of this repository.
-* Go to Apk release and go to google drive link and download the `skelva-prototype-v1.0.apk` file to your Android device.
+*Go to the [releases page](../../releases/) of this repository.
+* Download the `skelva-prototype-v1.0.apk` file to your Android device.
 
 **Step 2: Enable Installation**
 * Because this is a developer prototype and not on the Google Play Store, you need to allow installation from unknown sources.
