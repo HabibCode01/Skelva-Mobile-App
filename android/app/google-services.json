@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "130675354909",
+    "firebase_url": "https://ppik-application-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ppik-application",
+    "storage_bucket": "ppik-application.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130675354909:android:15edf25d89edf098a885f4",
+        "android_client_info": {
+          "package_name": "com.PPIK.KomunitiKeusahawanan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqB37nZKxgemkC06vC267ypHinyvYeXH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

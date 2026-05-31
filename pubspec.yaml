@@ -1,0 +1,52 @@
+name: skilly_ppki
+description: Skilly PPKI — marketplace and learning for special needs students
+publish_to: "none"
+version: 0.1.0+1
+
+environment:
+  sdk: ">=2.18.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  google_maps_flutter: ^2.5.0
+  firebase_core: ^4.1.1
+  firebase_auth: ^6.1.0
+  cloud_firestore: ^6.0.2
+  firebase_storage: ^13.0.2
+  flutter_stripe: ^12.1.1
+  http: ^1.1.0
+  url_launcher: ^6.1.7
+  provider: ^6.1.1
+  google_fonts: ^6.1.0  # For modern typography
+  uuid: ^4.5.1
+  image_picker: ^1.2.0
+  zego_uikit_prebuilt_live_streaming: ^3.0.0
+  fl_chart: ^1.1.1
+  intl: ^0.20.2
+  flutter_localizations:
+    sdk: flutter
+  camera: ^0.11.3
+  permission_handler: ^12.0.1
+  video_player: ^2.10.1
+  zego_uikit_signaling_plugin: ^2.8.20
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.4
+
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon.png"
+  min_sdk_android: 30 # Important for modern Android support
